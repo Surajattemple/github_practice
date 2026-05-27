@@ -1,2 +1,1 @@
-# github_practice
-Here we will be practicing git commands
+# git practice hub for suraj and yuvan
